@@ -1,6 +1,6 @@
 ## ✨ Hi! I'm Mikael
-
 ![](https://komarev.com/ghpvc/?username=kaillr)
+
 ### Languages & Tools:
 
 <div>
@@ -28,6 +28,6 @@
 #
 
 
-[![Kailler's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kailler&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kailler's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kailler&theme=dark)](https://wakatime.com/@Kailler)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kaillr&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaillr&layout=compact&theme=dark)

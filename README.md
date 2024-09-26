@@ -1,8 +1,8 @@
 ## ✨ Hi! I'm Mikael
+<img align="right" height="200px" src="https://cdn.discordapp.com/attachments/639937324909854788/1289007507292815403/hearts.png?ex=66f7414a&is=66f5efca&hm=f7642002e18ea3d385197b16497c78534504eae45318abe4b6fc2b64676bcc8c&">
+
 ![](https://komarev.com/ghpvc/?username=kaillr)
-
 ### Languages & Tools:
-
 <div>
 <img title="HTML" height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />&nbsp&nbsp&nbsp
 <img title="CSS" height=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />&nbsp&nbsp&nbsp

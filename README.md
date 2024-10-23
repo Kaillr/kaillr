@@ -1,5 +1,6 @@
 ## ✨ Hi! I'm Mikael
-<img align="right" height="200px" src="https://cdn.discordapp.com/attachments/639937324909854788/1289007507292815403/hearts.png?ex=66f7414a&is=66f5efca&hm=f7642002e18ea3d385197b16497c78534504eae45318abe4b6fc2b64676bcc8c&">
+<img align="right" height="200px" src="https://github.com/user-attachments/assets/2e4c593f-5dee-4584-b04e-95c886dda9ce">
+
 
 ![](https://komarev.com/ghpvc/?username=kaillr)
 ### Languages & Tools:

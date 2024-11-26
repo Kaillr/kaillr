@@ -17,8 +17,22 @@
     <img alt="skillicons">
 </picture>
 
-#
+---
 
-[![Kailler's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kailler&theme=dark)](https://wakatime.com/@Kailler)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kaillr&theme=dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaillr&layout=compact&theme=dark)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Kailler&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Kailler&theme=light">
+    <img alt="WakaTime Stats">
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaillr&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kaillr&layout=compact&theme=light">
+    <img alt="Top Langs">
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kaillr&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kaillr&theme=light">
+    <img alt="GitHub Streak">
+</picture>

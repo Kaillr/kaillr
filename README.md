@@ -12,8 +12,8 @@
 
 ### My skills
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Creact%2Cvite%2Cjs%2Cts%2Chtml%2Ccss%2Ctailwind%2Cmd%2Cmysql%2Cgit%2Cgithub%2Cgithubactions%2Cnginx%2Ccloudflare%2Cpy%2Craspberrypi%2Clinux%2Cvscode%2Cfigma%2Cps%2Cai%2Cpr%2Cae%2Cxd&perline=15&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Creact%2Cvite%2Cjs%2Cts%2Chtml%2Ccss%2Ctailwind%2Cmd%2Cmysql%2Cgit%2Cgithub%2Cgithubactions%2Cnginx%2Ccloudflare%2Cpy%2Craspberrypi%2Clinux%2Cvscode%2Cfigma%2Cps%2Cai%2Cpr%2Cae%2Cxd&perline=15&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Creact%2Cvite%2Cjs%2Cts%2Chtml%2Ccss%2Ctailwind%2Csass%2Cmd%2Cmysql%2Cgit%2Cgithub%2Cgithubactions%2Cnginx%2Ccloudflare%2Cpy%2Craspberrypi%2Clinux%2Cvscode%2Cfigma%2Cps%2Cai%2Cpr%2Cae%2Cxd&perline=15&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Creact%2Cvite%2Cjs%2Cts%2Chtml%2Ccss%2Ctailwind%2Csass%2Cmd%2Cmysql%2Cgit%2Cgithub%2Cgithubactions%2Cnginx%2Ccloudflare%2Cpy%2Craspberrypi%2Clinux%2Cvscode%2Cfigma%2Cps%2Cai%2Cpr%2Cae%2Cxd&perline=15&theme=light">
     <img alt="skillicons">
 </picture>
 

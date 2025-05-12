@@ -208,13 +208,8 @@
 
 ---
 
-<a href="https://wakatime.com/@Kailler">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Kailler&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Kailler&theme=light">
-        <img alt="WakaTime Stats">
-    </picture>
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kaillr&layout=compact&theme=dark">
     <picture>
